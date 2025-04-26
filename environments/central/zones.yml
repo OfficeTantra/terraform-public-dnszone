@@ -1,0 +1,11 @@
+zones:
+  - name: "officetantra.co.uk"
+    A: []
+    cname: []
+  - name: "officetantra.com"
+    A: []
+    cname: []
+  - name: "officetantra.co.in"
+    A: []
+    cname: []
+    
