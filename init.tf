@@ -15,3 +15,5 @@ provider "azurerm" {
   features {}
   subscription_id = var.subscription_id
 }
+
+# This is the main module for creating a DNS zone and records in Azure.
